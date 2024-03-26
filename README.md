@@ -5,3 +5,4 @@
 [LAB-05][https://github.com/Abh12shhshs/AIML_BATCH_11/blob/main/Lab05_1004.ipynb]
 [LAB-06][https://github.com/Abh12shhshs/AIML_BATCH_11/blob/main/Lab06_AIML.ipynb]
 [LAB-07][https://github.com/Abh12shhshs/AIML_BATCH_11/blob/main/Lab_7_1004.ipynb]
+[LAB-08][https://github.com/BethiAbhinav/AIML_BATCH_11/blob/main/Lab08_1004.ipynb]
